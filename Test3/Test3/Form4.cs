@@ -20,8 +20,12 @@ namespace Test3
 
 		private void Form4_Load(object sender, EventArgs e)
 		{
-			// TODO: This line of code loads data into the 'anketa_1DataSet1.DataTable3' table. You can move, or remove it, as needed.
-			this.dataTable3TableAdapter.Fill(this.anketa_1DataSet1.DataTable3);
+            // TODO: This line of code loads data into the 'anketa_1DataSet1.Виды' table. You can move, or remove it, as needed.
+            this.видыTableAdapter.Fill(this.anketa_1DataSet1.Виды);
+            // TODO: This line of code loads data into the 'anketa_1DataSet1.Вопросы' table. You can move, or remove it, as needed.
+            this.вопросыTableAdapter.Fill(this.anketa_1DataSet1.Вопросы);
+            // TODO: This line of code loads data into the 'anketa_1DataSet1.DataTable3' table. You can move, or remove it, as needed.
+            this.dataTable3TableAdapter.Fill(this.anketa_1DataSet1.DataTable3);
 
 		}
 
@@ -32,6 +36,7 @@ namespace Test3
 
 		private void button1_Click(object sender, EventArgs e)
 		{
+			var typeQuestionText = textBox5.Text;
 			var question = textBox1.Text;
 			var answer1 = textBox2.Text;
 			var answer2 = textBox3.Text;

@@ -54,8 +54,13 @@ namespace Test3
             this.anketa_1DataSet1 = new Test3.Anketa_1DataSet();
             this.dataTable3TableAdapter = new Test3.Anketa_1DataSetTableAdapters.DataTable3TableAdapter();
             this.button3 = new System.Windows.Forms.Button();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.bindingSource2 = new System.Windows.Forms.BindingSource(this.components);
+            this.вопросыTableAdapter = new Test3.Anketa_1DataSetTableAdapters.ВопросыTableAdapter();
+            this.видыTableAdapter = new Test3.Anketa_1DataSetTableAdapters.ВидыTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.anketa_1DataSet1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource2)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -80,11 +85,10 @@ namespace Test3
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(133, 63);
+            this.comboBox1.Location = new System.Drawing.Point(133, 71);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 2;
-            this.comboBox1.Visible = false;
             // 
             // label3
             // 
@@ -254,11 +258,32 @@ namespace Test3
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(390, 71);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(157, 20);
+            this.textBox5.TabIndex = 23;
+            // 
+            // bindingSource2
+            // 
+            this.bindingSource2.DataMember = "Виды";
+            this.bindingSource2.DataSource = this.anketa_1DataSet1;
+            // 
+            // вопросыTableAdapter
+            // 
+            this.вопросыTableAdapter.ClearBeforeFill = true;
+            // 
+            // видыTableAdapter
+            // 
+            this.видыTableAdapter.ClearBeforeFill = true;
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(739, 428);
+            this.Controls.Add(this.textBox5);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.checkBox3);
             this.Controls.Add(this.checkBox2);
@@ -286,6 +311,7 @@ namespace Test3
             this.Load += new System.EventHandler(this.Form4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.anketa_1DataSet1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -316,5 +342,9 @@ namespace Test3
         private System.Windows.Forms.BindingSource bindingSource1;
         private Anketa_1DataSetTableAdapters.DataTable3TableAdapter dataTable3TableAdapter;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.BindingSource bindingSource2;
+        private Anketa_1DataSetTableAdapters.ВопросыTableAdapter вопросыTableAdapter;
+        private Anketa_1DataSetTableAdapters.ВидыTableAdapter видыTableAdapter;
     }
 }

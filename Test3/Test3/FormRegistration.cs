@@ -14,12 +14,17 @@ namespace Test3
 
 	public partial class FormRegistration : Form
 	{
+		Anketa_1DataSetTableAdapters.ПерсоналTableAdapter cf = new Anketa_1DataSetTableAdapters.ПерсоналTableAdapter();
 		public FormRegistration()
 		{
 			InitializeComponent();
-			//if(!admin)
+			////if(!admin)
+			//{
+			//	button3.Visible = button4.Visible = button5.Visible = false;
+			//}
+			if(!FormMain.admin)
 			{
-				button3.Visible = button4.Visible = button5.Visible = false;
+				button4.Visible = true;
 			}
 		}
 
@@ -36,7 +41,10 @@ namespace Test3
 
 		private void button3_Click(object sender, EventArgs e)
 		{
+			if(FormMain.admin)
+            {
 
+            }
 		}
 
 		private void button2_Click(object sender, EventArgs e)
@@ -59,5 +67,19 @@ namespace Test3
 			a.ShowDialog();
 			Close();
 		}
-	}
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+			cf.DeleteQuery(Convert.ToInt32(dataGridView1.SelectedRows[0].Cells[0].Value));
+			Close();
+			MessageBox.Show("Удаление прошло успешно.");
+			//Close();
+			//this.персоналTableAdapter.DeleteQuery();
+		}
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

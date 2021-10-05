@@ -176,6 +176,7 @@ namespace Test3
                         radioButton3.Checked = true;
                         break;
                 }
+                // radb.Remove[FormMain.countQ2 + 1];
             }
         }
     }

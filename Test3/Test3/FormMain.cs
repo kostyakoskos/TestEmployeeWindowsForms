@@ -13,6 +13,7 @@ namespace Test3
 {
 	public partial class FormMain : Form
 	{
+		public static bool admin = false;
 		public static int idPerson = -1;
 		public static string fio = "";
 		public static int countQuestions = -1, forQuestions = -1, countQ2 = 0;
@@ -79,6 +80,7 @@ namespace Test3
 				button2.Visible = true;
 				label2.Visible = true;
 				button6.Visible = true;
+				admin = true;
 			}
 			else
             {
