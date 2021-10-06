@@ -1,0 +1,132 @@
+O:\__Константин С++\1\Test3\Test3\bin\Debug\Test3.exe.config
+O:\__Константин С++\1\Test3\Test3\bin\Debug\Test3.exe
+O:\__Константин С++\1\Test3\Test3\bin\Debug\Test3.pdb
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.FormMain.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.FormRegistration.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.Form3.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.Form4.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.exe
+O:\__Константин С++\1\Test3\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\bin\Debug\Test3.exe.config
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\bin\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\bin\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.FormMain.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.FormRegistration.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.Form3.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.Form4.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\winForms\1\Test3\Test3\obj\Debug\Test3.pdb
+O:\__Константин С++\Test3\Test3\bin\Debug\Test3.exe.config
+O:\__Константин С++\Test3\Test3\bin\Debug\Test3.exe
+O:\__Константин С++\Test3\Test3\bin\Debug\Test3.pdb
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.FormMain.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.FormRegistration.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.Form3.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.Form4.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.exe
+O:\__Константин С++\Test3\Test3\obj\Debug\Test3.pdb
+D:\2\Test3\Test3\bin\Debug\Test3.exe.config
+D:\2\Test3\Test3\bin\Debug\Test3.exe
+D:\2\Test3\Test3\bin\Debug\Test3.pdb
+D:\2\Test3\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+D:\2\Test3\Test3\obj\Debug\Test3.FormMain.resources
+D:\2\Test3\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+D:\2\Test3\Test3\obj\Debug\Test3.FormRegistration.resources
+D:\2\Test3\Test3\obj\Debug\Test3.Form3.resources
+D:\2\Test3\Test3\obj\Debug\Test3.Form4.resources
+D:\2\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+D:\2\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+D:\2\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+D:\2\Test3\Test3\obj\Debug\Test3.exe
+D:\2\Test3\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\bin\Debug\Test3.exe.config
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\bin\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\bin\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.FormMain.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.FormRegistration.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.Form4.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.FormQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\2\Test3\Test3\obj\Debug\Test3.FormAllQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormAllQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormMain.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormRegistration.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\bin\Debug\Test3.exe.config
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\bin\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\bin\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\v4\Test3\obj\Debug\Test3.FormAddQuestions.resources
+O:\__Константин С++\Version5\Test3\bin\Debug\Test3.exe.config
+O:\__Константин С++\Version5\Test3\bin\Debug\Test3.exe
+O:\__Константин С++\Version5\Test3\bin\Debug\Test3.pdb
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormAllQuestions.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormMain.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormRegistration.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormQuestions.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.FormAddQuestions.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.Properties.Resources.resources
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.exe
+O:\__Константин С++\Version5\Test3\obj\Debug\Test3.pdb
+O:\__Константин С++\Version5+\Test3\bin\Debug\Test3.exe.config
+O:\__Константин С++\Version5+\Test3\bin\Debug\Test3.exe
+O:\__Константин С++\Version5+\Test3\bin\Debug\Test3.pdb
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormAllQuestions.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormMain.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormRegistration.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormQuestions.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.FormAddQuestions.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.Properties.Resources.resources
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.exe
+O:\__Константин С++\Version5+\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\bin\Debug\Test3.exe.config
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\bin\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\bin\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormAllQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormMain.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormRegistrationAdd.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormRegistration.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormAddQuestions.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.csproj.GenerateResource.cache
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.exe
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.pdb
+C:\Users\Konstantin\OneDrive\Desktop\Version5+\Test3\obj\Debug\Test3.FormResultTest.resources
